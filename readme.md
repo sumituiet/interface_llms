@@ -1,8 +1,8 @@
-# Crowd monitoring query system
+# Interfacing LLMs and Unsloth model training
 
 ## Overview
 
-The **Crowd monitoring query system** is a FastAPI-based application that allows users to query room occupancy records based on specific criteria using an instruction-tuned language model. This system integrates a MongoDB database to store and retrieve occupancy data, while leveraging a pre-trained language model to generate natural language responses based on the queried data.
+The repo is a FastAPI-based application that allows users to query room occupancy records based on specific criteria using an instruction-tuned language model. This system integrates a MongoDB database to store and retrieve occupancy data, while leveraging a pre-trained language model to generate natural language responses based on the queried data.
 
 ## Key Features
 
